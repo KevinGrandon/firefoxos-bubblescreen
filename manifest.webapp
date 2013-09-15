@@ -1,0 +1,28 @@
+{
+  "name": "FirefoxOS Bubblepage",
+  "description": "Bubbles most commonly used apps to the top.",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "role": "homescreen",
+  "developer": {
+    "name": "Kevin Grandon",
+    "url": "https://github.com/kevingrandon/"
+  },
+  "permissions": {
+    "webapps-manage": {},
+    "storage": {}
+  },
+  "locales": {
+    "en-US": {
+      "name": "FirefoxOS Bubblepage",
+      "description": "Bubbles most commonly used apps to the top."
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "60": "/style/icons/bubble.png"
+  },
+  "orientation": "portrait-primary",
+  "activities": {},
+  "messages": []
+}
